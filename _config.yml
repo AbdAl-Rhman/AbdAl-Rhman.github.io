@@ -77,7 +77,7 @@ theme_mode: dark # تم ضبط الوضع الداكن كافتراضي (مثل 
 cdn:
 
 # the avatar on sidebar
-avatar: 'https://avatars.githubusercontent.com/u/140548886?v=4&size=64' # يمكنك وضع رابط صورتك هنا لاحقاً
+avatar: 'https://avatars.githubusercontent.com/u/140548886?v=4&size=500' # يمكنك وضع رابط صورتك هنا لاحقاً
 
 # The URL of the site-wide social preview image
 social_preview_image:
